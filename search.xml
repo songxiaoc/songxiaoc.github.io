@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2022/12/16/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2022/12/16/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>你了解 <a href="https://hexo.io/zh-cn/">Hexo</a> 吗？</p><p>Hexo 是一个静态博客框架（Wordpress 是动态的），基于 Node.js，可以将 Markdown 文章通过渲染引擎，生成一个静态网页，再结合 Git 命令（ssh），Hexo 是一个快速、简洁且高效的博客框架。</p><p>Hexo 使用 <a href="http://daringfireball.net/projects/markdown/">Markdown</a>（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><p>前几天前偶然间了解到了 Hexo 这个静态博客网站，很适合那些喜欢博客的兄弟们，最重要的是它是免费的主要是免费的主要是免费的重要是事情说三遍，零基础小白也能上手，不需要编程基础，跟着操作来即可。</p><h3 id="博客搭建环境"><a href="#博客搭建环境" class="headerlink" title="博客搭建环境"></a>博客搭建环境</h3><p><strong>本人强烈推荐！！！！</strong></p><ul><li>【2021版本】保姆级Hexo+Github搭建个人博客步骤（手把手教学了已经很详细了）</li></ul><p>​推荐视频地址：<a href="https://www.bilibili.com/video/BV1mU4y1j72n?t=2.5&vd_source=71e92a1364cbcaf80125baa05f89bc60">https://www.bilibili.com/video/BV1mU4y1j72n?t=2.5&amp;vd_source=71e92a1364cbcaf80125baa05f89bc60</a></p><h3 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h3><p>首先去 <a href="https://nodejs.org/en/download/">Node.js 官网 </a>或者node.js中文版<a href="http://nodejs.cn/%E4%B8%8B%E8%BD%BD">http://nodejs.cn/下载</a> node.js 的安装程序，根据你电脑系统的配置信息，下载对应的安装程序，</p><p><a href="https://www.cnblogs.com/liuqiyun/p/8133904.html">详细步骤文章参考</a></p><h3 id="Git安装"><a href="#Git安装" class="headerlink" title="Git安装"></a>Git安装</h3><p>首先去官网下载:<a href="https://git-scm.com/">https://git-scm.com/</a></p><p>安装步骤参考以下步骤</p><p>​<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">https://www.cnblogs.com/xueweisuoyong/p/11914045.html</a></p><h3 id="webstorm安装"><a href="#webstorm安装" class="headerlink" title="webstorm安装"></a>webstorm安装</h3><p>首先去官网下载 <a href="https://www.jetbrains.com.cn/toolbox-app/">https://www.jetbrains.com.cn/toolbox-app/</a></p><h3 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h3><ul><li>注册Github账号</li></ul><p>​       接下来就去注册一个github账号，用来存放我们的网站，注册、使用教程 CSDN自己搜，这里就不提供了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 必看内容 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编程学习 </tag>
+            
+            <tag> 知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/12/15/hello-world/"/>
+      <url>/2022/12/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
